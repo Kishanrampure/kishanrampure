@@ -1,7 +1,7 @@
 
 # Hi, I'm Kishan Rampure! 👋
 
-![Beige   Black Geometric Technology LinkedIn Banner (1)](https://github.com/Kishanrampure/kishanrampure/assets/121344253/0b6815a1-9280-4922-b2c1-5e27b5d75869)
+![Beige   Black Geometric Technology LinkedIn Banner (3)](https://github.com/Kishanrampure/kishanrampure/assets/121344253/26e8461f-295f-434a-8a5f-052545ec53c0)
 
 
 

@@ -19,9 +19,9 @@ ready to excel in the dynamic IT landscape.
 
 
 - 🔭 I worked as a System Administrator at VHS Logitech Pvt Ltd.
-- 🌱 I’m currently learning Devops and Cloud
-- 📫 How to reach me mail to: kishanrampure59@gmail.com 
-- 🤔 I’m looking for DevOps Engineer Role, (SRE)
+- 🌱 I’m currently learning Devops and Cloud.
+- 📫 How to reach me mail to: kishanrampure59@gmail.com.
+- 🤔 I’m looking for DevOps Engineer Role, (SRE).
  
 
 ## Skills and tools
@@ -34,9 +34,7 @@ ready to excel in the dynamic IT landscape.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kishanrampure.info)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-rampure/)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Kishan-Rampure)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kishanrampure.info)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-rampure/)[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Kishan-Rampure)
 
 # 📊 GitHub Stats:
 
@@ -58,7 +56,4 @@ ready to excel in the dynamic IT landscape.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-
-
+# 

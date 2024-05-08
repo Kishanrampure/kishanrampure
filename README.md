@@ -27,6 +27,24 @@ ready to excel in the dynamic IT landscape.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kishanrampure.info)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-rampure/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/kishanrampure) 
+
+Skills and tools
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,github,jenkins,kubernetes,docker,ansible,terraform,vscode,bash,ubuntu)](https://skillicons.dev)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![ARGOCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=flat&logo=argo&logoColor=white&color=%23EF7B4D) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=flat&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kishanrampure&theme=tokyonight&hide_border=false)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=kishanrampure&icon=5&color=6)](https://visitcount.itsvg.in)
 
 

@@ -7,13 +7,18 @@
 ## About Me
 
 ```bash
-My journey began with a Diploma in Computer Science and Engineering, leading to a Bachelor's in Computer Application at Amity Online,Transitioning into the DevOps, I served as a System Administrator at VHS LogiTech Pvt Ltd, where I oversaw the smooth functioning of IT infrastructure and IoT devices for platforms like Coolgix and Clubliv. My expertise in DevOps tools, backed by certifications from KodeKloud and Udemy with project experience, along with the Google IT Support Professional Certificate, underscores my proficiency in troubleshooting and networking. Additionally, OneMonth certifications in web development and SQL have further enriched my skill set, positioning me as a well-rounded professional ready to excel in the dynamic IT landscape.
+My journey began with a Diploma in Computer Science and Engineering, leading to a Bachelor's in Computer Application at Amity Online,Transitioning into the DevOps, 
+I served as a System Administrator at VHS LogiTech Pvt Ltd, where I oversaw the smooth functioning of IT infrastructure and 
+IoT devices for platforms like Coolgix and Clubliv. My expertise in DevOps tools, backed by certifications from KodeKloud and Udemy with 
+project experience, along with the Google IT Support Professional Certificate, underscores my proficiency in troubleshooting and networking. 
+Additionally, OneMonth certifications in web development and SQL have further enriched my skill set, 
+positioning me as a well-rounded professional ready to excel in the dynamic IT landscape.
 ```
 
-> 🔭 Was working as System Admin @ VHS LOGITECH PVT LTD
-> 🌱 I’m currently learning Devops and Cloud
-> 📫 How to reach me mail to: kishanrampure59@gmail.com 
-> 🤔 I’m looking for DevOps Engineer Role, (SRE)
+- 🔭 Was working as System Admin @ VHS LOGITECH PVT LTD
+- 🌱 I’m currently learning Devops and Cloud
+- 📫 How to reach me mail to: kishanrampure59@gmail.com 
+- 🤔 I’m looking for DevOps Engineer Role, (SRE)
 
 
 ## 🔗 Links

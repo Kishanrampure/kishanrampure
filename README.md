@@ -1,16 +1,17 @@
 
 # Hi, I'm Kishan Rampure! 👋
 
-![Beige   Black Geometric Technology LinkedIn Banner (3)](https://github.com/Kishanrampure/kishanrampure/assets/121344253/26e8461f-295f-434a-8a5f-052545ec53c0)
+![Portfolio](https://github.com/Kishanrampure/kishanrampure/assets/121344253/edf6e603-2ad0-421b-94cd-13972c216729)
+
 
 
 
 ## About Me
 
 > My journey began with a Diploma in Computer Science and Engineering, leading to a Bachelor in Computer Application at 
-Amity Online,Transitioning into the DevOps, I served as a System Administrator at 
+Amity Online,Transitioning into the SRE - DevOps, I served as a System Administrator at 
 VHS LogiTech Pvt Ltd, where I oversaw the smooth functioning of IT infrastructure and 
-IoT devices for platforms like Coolgix and Clubliv. My expertise in DevOps tools, 
+IoT devices for platforms like Coolgix and Clubliv. My expertise in SRE - DevOps tools, 
 backed by certifications from KodeKloud and Udemy with project experience, 
 along with the Google IT Support Professional Certificate, underscores my proficiency in 
 troubleshooting and networking. Additionally, OneMonth certifications in 
@@ -21,12 +22,12 @@ ready to excel in the dynamic IT landscape.
 - 🔭 I worked as a System Administrator at VHS Logitech Pvt Ltd.
 - 🌱 I’m currently learning Devops and Cloud.
 - 📫 How to reach me mail to: kishanrampure59@gmail.com.
-- 🤔 I’m looking for DevOps Engineer Role, (SRE).
+- 🤔 I’m looking for Site Reliability Engineer - DevOps role.
  
 
 ## Skills and tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,github,jenkins,kubernetes,docker,ansible,terraform,vscode,bash,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,git,github,jenkins,kubernetes,docker,ansible,terraform,vscode,bash,ubuntu,network,security)](https://skillicons.dev)
 
 ![ARGOCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=flat&logo=argo&logoColor=white&color=%23EF7B4D) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=flat&logo=sonarqube&logoColor=white&color=%234E9BCD)
 
@@ -35,12 +36,8 @@ ready to excel in the dynamic IT landscape.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kishanrampure.info)<br>[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-rampure/)<br>[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Kishan-Rampure)
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kishanrampure&theme=tokyonight&hide_border=false)
-
-
-## Major Projects For DevOps CI/CD
+## Major Projects
 
 - BoardGame
 - PetClinic

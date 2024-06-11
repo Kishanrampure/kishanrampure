@@ -9,9 +9,9 @@
 ## About Me
 
 > My journey began with a Diploma in Computer Science and Engineering, leading to a Bachelor in Computer Application at 
-Amity Online,Transitioning into the SRE - DevOps, I served as a System Administrator at 
+Amity Online,Transitioning into the SRE - DevOps/Cloud, I served as a System Administrator at 
 VHS LogiTech Pvt Ltd, where I oversaw the smooth functioning of IT infrastructure and 
-IoT devices for platforms like Coolgix and Clubliv. My expertise in SRE - DevOps tools, 
+IoT devices for platforms like Coolgix and Clubliv. My expertise in DevOps/Cloud tools, 
 backed by certifications from KodeKloud and Udemy with project experience, 
 along with the Google IT Support Professional Certificate, underscores my proficiency in 
 troubleshooting and networking. Additionally, OneMonth certifications in 
@@ -20,9 +20,9 @@ ready to excel in the dynamic IT landscape.
 
 
 - 🔭 I worked as a System Administrator at VHS Logitech Pvt Ltd.
-- 🌱 I’m currently learning Devops and Cloud.
+- 🌱 I’m currently learning  and Cloud.
 - 📫 How to reach me mail to: kishanrampure59@gmail.com.
-- 🤔 I’m looking for Site Reliability Engineer - DevOps role.
+- 🤔 I’m looking for Site Reliability Engineer - DevOps/Cloud role.
  
 
 ## Skills and tools

@@ -22,7 +22,6 @@ ready to excel in the dynamic IT landscape.
 - 🔭 I worked as a System Administrator at VHS Logitech Pvt Ltd.
 - 🌱 I’m currently learning DevOps and Cloud.
 - 📫 How to reach me mail to: kishanrampure59@gmail.com.
-- 🤔 I’m looking for a SRE - DevOps/Cloud role.
  
 
 ## Skills and tools

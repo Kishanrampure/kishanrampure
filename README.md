@@ -20,7 +20,7 @@ ready to excel in the dynamic IT landscape.
 
 
 - 🔭 I worked as a System Administrator at VHS Logitech Pvt Ltd.
-- 🌱 I’m currently learning DevOps and Cloud.
+- 🌱 I’m currently learning new technology
 - 📫 How to reach me mail to: kishanrampure59@gmail.com.
  
 
